@@ -1,8 +1,6 @@
 #Psycodes 1
 ### Psycodes
 
-![psycodes](https://user-images.githubusercontent.com/46983614/66270454-1d809480-e87e-11e9-95a0-d29b7b0b7d76.png)
-
 **Tutorial awal penggunaan Git**
 
 1. install git terlebih dahulu
