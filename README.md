@@ -20,6 +20,8 @@ Menggunakan git
   c. public/private : kondisi repository mau di publikasikan atau pribadi.
   
   d. initiallize the repository with README : ini adalah isi dokumentasi pada project yang dikerjakan, saya sarankan tidak usah dicentang. setelah diisi sesuai keinginan, klik tombol "create repository" maka tampilan selanjutnya adalah repository yang sudah dibuat, tahap selanjutnya adalah upload project ke repository online.
+  
+  ![github](https://user-images.githubusercontent.com/46983614/66291498-3fc0f380-e90c-11e9-93d7-4c3bf70c00d4.jpg)
 
 5. buka aplikasi git bash. pertama kalian konfigurasi seperti yang sudah dijelaskan diatas.
 
